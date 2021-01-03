@@ -6,6 +6,7 @@ Install the dependencies...
 ```bash
 cd svelte-app
 npm install
+npm install autoprefixer postcss-cli tailwindcss concurrently cross-env --save-dev
 ```
 
 ...then start [Rollup](https://rollupjs.org):
